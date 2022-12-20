@@ -8,5 +8,5 @@ Os requisitos são: - Possuir classes com diferentes armas e atributos, utilizan
 
 Objetivo da modularização:
 - Criar uma classe mãe chamada personagem, e 6 classes filhas: guerreiro, mago, arqueiro, vilao 1, vilao 2 e o boss.
-- As classes filhas terão habilidades de ataque e defesa, e possuiram uma vida determinada previamente com base na classe.
+- As classes filhas terão habilidades de ataque e defesa, e possuirão uma vida determinada previamente com base na classe.
 - O dano, defesa e ataque são definidos com base na rolagem de dados, prevista na classe DADO.
